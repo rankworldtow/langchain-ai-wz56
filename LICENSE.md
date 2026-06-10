@@ -1,4 +1,4 @@
-# 
+# Seguro LangChain temas. Con interfaz amigable y búsqueda semántica — optimizado para el máximo rendimiento y eficiencia.
 
 
 
